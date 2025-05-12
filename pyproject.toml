@@ -28,8 +28,9 @@ dependencies = [
   "pandas",
   "control",
   "sdof",
-# "opensees",
-  "quakeio"
+  "opensees",
+  "quakeio",
+  "xara"
 ]
 
 classifiers = [
